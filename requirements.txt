@@ -1,0 +1,8 @@
+easyocr
+pytesseract
+pillow
+transformers
+torch
+torchvision
+numpy
+python-dotenv
